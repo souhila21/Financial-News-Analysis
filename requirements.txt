@@ -6,3 +6,6 @@ joblib
 streamlit
 sentence_transformers
 imblearn
+imbalanced-learn
+google-generativeai
+dotenv
